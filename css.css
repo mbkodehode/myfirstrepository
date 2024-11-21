@@ -6,6 +6,9 @@ h1{
     text-align: center;
 }
 
-header{
-    align-items: center;
+#flaming {
+    object-position: center;
+}
+button{
+    color: brown;
 }
